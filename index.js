@@ -8,7 +8,7 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-const oneBillion = 
+const billion = 1000000000
 
 const newID = oldID + 1000000000;
 
